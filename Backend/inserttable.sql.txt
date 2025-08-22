@@ -2,6 +2,6 @@ INSERT INTO Employees (EmployeeID, FirstName, LastName, Department, Salary, Hire
 VALUES 
 (1, 'John', 'Doe', 'HR', 50000, '2020-01-15'),
 (2, 'Jane', 'Smith', 'Finance', 60000, '2019-03-10'),
-(3, 'Robert', 'Brown', 'IT', 70000, '2021-06-01'),
+(3, 'Robert', 'Brown', 'HR', 70000, '2021-06-01'),
 (4, 'Emily', 'Davis', 'IT', 72000, '2022-01-05'),
 (5, 'Michael', 'Wilson', 'Marketing', 55000, '2023-08-20');
